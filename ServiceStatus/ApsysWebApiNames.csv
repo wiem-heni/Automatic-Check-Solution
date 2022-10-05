@@ -1,0 +1,5 @@
+machine,name,port
+vmcsenv,ApsysWebApi_G2_BF,8592
+vmcsenv,ApsysWebApi_G2_EBK,8590
+vmcsenv,ApsysWebApiRef2,9090
+vmcsenv,ApsysWebApiRefEBK,9091
